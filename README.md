@@ -1,4 +1,4 @@
-# emojiSearch App Using React JS
+# EmojiSearch App Using React JS
 
 
 The UI
