@@ -1,0 +1,22 @@
+
+#search{
+    padding: 10px;
+    padding-left: 30px!important;
+    margin: 50px 0px;
+    border-radius: 50px!important;
+    width: 400px;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+}
+#emoji_list{
+    font-size: 1.2rem!important;
+}
+#emoji_list div> div{
+    padding: 15px;
+    border: 1px solid #dadada;
+    border-radius: 16px;
+    box-shadow: 2px 3px 3px 3px #dadada;
+    margin: 20px;
+    width: 300px;
+}
